@@ -7,3 +7,13 @@ i'm Adhi, i'm from Indonesia, let's explore my profile 😉
 - 💬 Ask me about what u want to ask 😄
 - ⚡ Fun fact: yeah i'm kidal
 
+```c
+#include <stdio.h>
+int main(){
+  
+  if(printf("yeah let's go to the moon")){
+    //let's see
+  }
+  
+}
+```
