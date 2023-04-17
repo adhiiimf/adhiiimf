@@ -15,8 +15,8 @@ int main(){
   
 }
 ```
-[![Adhi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=adhiiimf&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/adhiiimf/github-readme-stats#gh-dark-mode-only)
+[![Adhi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=adhiiimf&show_icons=true&theme=dark#gh-dark-mode-only)]
 
-[![Top Langs of Me](https://github-readme-stats.vercel.app/api/top-langs/?username=adhiiimf&layout=compact)](https://github.com/adhiiimf/github-readme-stats)
+[![Top Langs of Me](https://github-readme-stats.vercel.app/api/top-langs/?username=adhiiimf&layout=compact)]
 
 ![](https://komarev.com/ghpvc/?username=adhiiimf)
