@@ -9,8 +9,6 @@ I am Adhi, so let's explore my profile 😉
 ## Tech Stacks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,python,nginx,laravel,php,git,mysql,postgresql,flutter,dart,c,cpp,tailwindcss,bootstrap,supabase,firebase,nextjs,vuejs,figma,bash)](https://skillicons.dev)
 
-[![Adhi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=adhiiimf&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/adhiiimf)
-
 [![Top Langs of Me](https://github-readme-stats.vercel.app/api/top-langs/?username=adhiiimf&layout=compact)](https://github.com/adhiiimf)
 
 [![](https://komarev.com/ghpvc/?username=adhiiimf)](https://github.com/adhiiimf)
