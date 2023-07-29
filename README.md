@@ -2,7 +2,7 @@
 
 I am Adhi, so let's explore my profile 😉
 
-- 🔭 I’m currently as **_Final Year Student_** Undergraduate of Electrical Engineering
+- 🔭 I’m B.Eng. in Electrical Engineering
 - 🌱 active on app develop like web app, mobile app, etc. 😁
 - 💬 Ask me about what u want to ask 😄
 
